@@ -1,1 +1,1 @@
-python:3.6 crpi-jgwkihuy3ojk21wb.cn-chengdu.personal.cr.aliyuncs.com/public_mei/python:3.6
+python:3.10.7 crpi-jgwkihuy3ojk21wb.cn-chengdu.personal.cr.aliyuncs.com/public_mei/python:3.10.7
